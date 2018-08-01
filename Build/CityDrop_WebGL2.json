@@ -1,0 +1,13 @@
+{
+"companyName": "samtous",
+"productName": "Dweb",
+"dataUrl": "CityDrop_WebGL2.data.unityweb",
+"asmCodeUrl": "CityDrop_WebGL2.asm.code.unityweb",
+"asmMemoryUrl": "CityDrop_WebGL2.asm.memory.unityweb",
+"asmFrameworkUrl": "CityDrop_WebGL2.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#008058"
+}
